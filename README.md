@@ -12,4 +12,4 @@ Steps to include in android studio
 2.Import the Project directory in android studio.
 
 NOTE:Do register before login in the app.
-s
+
