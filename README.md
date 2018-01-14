@@ -1,5 +1,5 @@
 # Android login
-This Android Application provides interface for login and register where data is stored local sqlite and it can be helpful for integerating login and register module for any of the android app.
+This Android Application provides interface for login and register where data is stored in local sqlite and it can be helpful for integerating login and register module for any of the android app.
 
 Steps for Usage
 1.Download the APK file.
