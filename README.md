@@ -7,7 +7,7 @@ Steps for Usage
 
      2.Allow unknown app installation in your android Smart phone.
     
-    3.Install the Apk file.
+     3.Install the Apk file.
 
 
 Steps to include in android studio
